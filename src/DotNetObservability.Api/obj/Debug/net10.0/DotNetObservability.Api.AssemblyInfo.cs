@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("DotNetObservability.Api")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+51f8aaca027f9a5ac4a745bd86c5105f95f18c72")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+8dc62ab6619de57aec6f2a56fa662ce5cade2598")]
 [assembly: System.Reflection.AssemblyProductAttribute("DotNetObservability.Api")]
 [assembly: System.Reflection.AssemblyTitleAttribute("DotNetObservability.Api")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
