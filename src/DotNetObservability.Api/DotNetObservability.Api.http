@@ -1,0 +1,6 @@
+@DotNetObservability.Api_HostAddress = http://localhost:5081
+
+GET {{DotNetObservability.Api_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
