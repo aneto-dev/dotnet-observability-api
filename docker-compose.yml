@@ -1,0 +1,10 @@
+version: "3.9"
+
+services:
+  loki:
+    image: grafana/loki:2.9.0
+    ports:
+      - "3100:3100"
+    volumes:
+      - ./docker/loki/config.yaml:/etc/loki/config.yaml
+    command: -config.file=/etc/loki/config.yaml
