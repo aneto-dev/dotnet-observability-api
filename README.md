@@ -83,7 +83,7 @@ Key principle:
 
 ---
 
-## ⚙️ Running the Stack
+## Running the Stack
 
 ### Start Infrastructure
 
@@ -245,4 +245,5 @@ This is designed as a portfolio-quality example of backend engineering maturity.
 - CI validation for instrumentation coverage
 
 ---
+
 
